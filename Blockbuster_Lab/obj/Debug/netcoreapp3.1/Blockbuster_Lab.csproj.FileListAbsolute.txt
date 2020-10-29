@@ -1,0 +1,13 @@
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.exe
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.deps.json
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.runtimeconfig.json
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.runtimeconfig.dev.json
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.dll
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.pdb
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.csprojAssemblyReference.cache
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.AssemblyInfoInputs.cache
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.AssemblyInfo.cs
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.csproj.CoreCompileInputs.cache
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.dll
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.pdb
+C:\Users\harre\source\repos\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.genruntimeconfig.cache
